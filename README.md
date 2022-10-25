@@ -21,7 +21,6 @@ For the purposes of the exercise, pretend you're on a team working on a new webs
 * Include documentation about your development environment and instructions on how to run your program.
 * Include tests and instructions on how to run the tests.
 * The assignment need only execute from a local machine, and there are no requirements to deploy the implementation anywhere else.
-* Unless otherwise specified, feel free to use the language, frameworks, or technogies of your choice, but be prepared to discuss why you chose what you did.
 * For the purposes of this task, you don't need to worry about updating the data, but it should be updatable - lots of new movies come out every year!
 * Bonus: Leverage dependency injection.
 
